@@ -1,0 +1,8 @@
+pprintpp
+googletrans==4.0.0-rc1
+pytesseract
+opencv-python
+easyocr
+Pillow
+ipython
+textblob
