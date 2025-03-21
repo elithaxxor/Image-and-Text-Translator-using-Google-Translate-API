@@ -1,7 +1,11 @@
-Image and Text Translator using Google Translate API
+Image and Text Translator using Google Translate API.
+This Python project is designed to extract text from images and translate it into multiple languages using the Google Translate API. It uses a combination of image processing libraries and text extraction techniques to handle image-to-text conversions and provides various translation optionsThis Python project is designed to extract text from images and translate it into multiple languages using the Google Translate API. It uses a combination of image processing libraries and text extraction techniques to handle image-to-text conversions and provides various translation options
+
+![](https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/737dcbc4-ea1d-4a49-831d-f99bd1447eb6.png)
 
 
-This Python project is designed to extract text from images and translate it into multiple languages using the Google Translate API. It uses a combination of image processing libraries and text extraction techniques to handle image-to-text conversions and provides various translation options.
+
+.
 	•	The googletrans version is specified due to the working release 4.0.0-rc1 for proper translation functionality.
 Features
 
